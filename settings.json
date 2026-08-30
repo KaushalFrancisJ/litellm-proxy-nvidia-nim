@@ -1,0 +1,19 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:4000",
+    "ANTHROPIC_API_KEY": "sk-litellm-local-key",
+    "ANTHROPIC_MODEL": "nvidia-deepseek-ultra",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "nvidia-mistral-super",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "nvidia-kimi-omni",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "nvidia-nemotron-nano"
+  },
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  },
+  "model": "claude-sonnet-4-6[1m]",
+  "effortLevel": "medium",
+  "autoUpdatesChannel": "latest",
+  "tui": "fullscreen",
+  "theme": "dark"
+}

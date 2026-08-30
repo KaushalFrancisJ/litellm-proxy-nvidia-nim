@@ -1,0 +1,9 @@
+# LiteLLM Proxy
+litellm[proxy]>=1.50.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+PyYAML>=6.0.0
+
+# HTTP client with HTTP/2 support for load testing / scripts
+httpx[http2]>=0.27.0
